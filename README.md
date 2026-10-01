@@ -13,6 +13,6 @@ GioFe
 
 ### `$ ls ~/projects`
 
-- ▸ [`progetto_API_NASA`](https://github.com/GioFerla/progetto_API_NASA)
+- ▸ [`server-stats`](https://github.com/GioFerla/server-stats)
 
 `$ open showproof` [View my full profile on ShowProof →](https://showproof.io/@gioferla)
